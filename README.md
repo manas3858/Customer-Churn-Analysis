@@ -1,4 +1,4 @@
-Customer churn rate is the percentage of customers or subscribers who cancel or don't renew their subscriptions during a given time period. The aim of this project is to identify customers of a Telecom company who might churn in near future based on data provided.
+Customer churn rate is the percentage of customers or subscribers who cancel or don't renew their subscriptions during a given time period. The aim of this project is to find patterns in customer churn and identify customers who might churn in near future based on data provided.
 
 I tried to analyze the possible reasons of a telecom user churn and find key churn identifiers. Mainly, the following hypothesis are tested in this project:
 1. Is it because of poor service quality?
