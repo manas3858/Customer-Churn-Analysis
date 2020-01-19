@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi2uvPh647nAhVHRKwKHXzDDk8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.retentionscience.com%2Fblog%2Ftop-4-reasons-customers-churn-and-how-to-prevent-it%2F&psig=AOvVaw1XWqHlV6ub6Gom6p1KvZei&ust=1579494823245733)
+![](https://www.retentionscience.com/wp-content/uploads/2016/05/customerchurn_775x425_612.png)
 
 Customer churn rate is the percentage of customers or subscribers who cancel or don't renew their subscriptions during a given time period. The aim of this project is to find patterns in customer churn and identify customers who might churn in near future based on data provided.
 
