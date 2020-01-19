@@ -1,4 +1,4 @@
-Customer Churn Analysis
+# Customer Churn Analysis
 ![](https://www.retentionscience.com/wp-content/uploads/2016/05/customerchurn_775x425_612.png)
 
 Customer churn rate is the percentage of customers or subscribers who cancel or don't renew their subscriptions during a given time period. The aim of this project is to find patterns in customer churn and identify customers who might churn in near future based on data provided.
